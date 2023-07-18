@@ -6,6 +6,8 @@ Otherwise, just print something.
 Ask the user for a number between 1 and 100. Create a random number.
 While the user hasn’t correctly guessed the number, tell them if their guess was higher or lower. Ask them for a new guess and loop again. 
 Congratulate them when they win! 
+
+
 **If extra time: keep track of how many guesses it took the user. Or limit the user to a certain number of guesses.**
                                                                                                                                  
                                                                                                                                  
