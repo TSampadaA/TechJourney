@@ -21,10 +21,10 @@ else:
 
 num = -7
 if (num != 0):
-          if (num > 0):
-                      print(“Number is positive”)
-           else:
-                      print(“Number is negative”)
+    if (num > 0):
+        print(“Number is positive”)
+    else:
+        print(“Number is negative”)
 else:
-           print(“Number is Zero”)
+    print(“Number is Zero”)
 
