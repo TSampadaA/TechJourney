@@ -1,4 +1,5 @@
-To catch a specific exception, you will need to know the exact exception that is thrown. You can find this out by googling or experimenting. To catch all exceptions, just do an except. 
+To catch a specific exception, you will need to know the exact exception that is thrown. 
+You can find this out by googling or experimenting. To catch all exceptions, just do an except. 
 
 try:
     number = int(input("What is your favorite number? \n"))
